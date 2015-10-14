@@ -5,4 +5,5 @@
 * [猫和老鼠合伙](mao_he_lao_shu_he_huo.md)
 * [圣母的孩子](sheng_mu_de_hai_zi.md)
 * [狼和七只小山羊](lang_he_qi_zhi_xiao_shan_yang.md)
+* 忠实的约翰 
 
