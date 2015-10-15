@@ -8,5 +8,5 @@
 * [忠实的约翰](zhong_shi_de_yue_han.md)
 * [好交易](hao_jiao_yi.md)
 * [令人叫绝的乐师](ling_ren_jiao_jue_de_le_shi.md)
-* 傻小子学害怕 
+* [傻小子学害怕](sha_xiao_zi_xue_hai_pa.md)
 
