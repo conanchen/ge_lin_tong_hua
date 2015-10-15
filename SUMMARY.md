@@ -18,5 +18,5 @@
 * [汉赛尔与格莱特](han_sai_er_yu_ge_lai_te.md)
 * [三片蛇叶](san_pian_she_xie.md)
 * [白蛇](bai_she.md)
-*  麦草、煤块和豆子 
+* [麦草、煤块和豆子](mai_cao_3001_mei_kuai_he_dou_zi.md)
 
