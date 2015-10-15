@@ -26,7 +26,7 @@
 * [老鼠、小鸟和香肠](lao_shu_3001_xiao_niao_he_xiang_chang.md)
 * [霍勒大妈](huo_le_da_ma.md)
 * [七只乌鸦](qi_zhi_wu_ya.md)
-* 小红帽
+* [小红帽](xiao_hong_mao.md)
 * 当音乐家去
 * 会唱歌的白骨
 * 魔鬼的三根金发
