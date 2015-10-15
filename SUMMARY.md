@@ -31,7 +31,7 @@
 * [会唱歌的白骨](hui_chang_ge_de_bai_gu.md)
 * [魔鬼的三根金发](mo_gui_de_san_gen_jin_fa.md)
 * [虱子和跳蚤](shi_zi_he_tiao_zao.md)
-* 没有手的姑娘
+* [没有手的姑娘](mei_you_shou_de_gu_niang.md)
 * 称心如意的汉斯
 * 三种语言
 * 聪明的爱尔莎
