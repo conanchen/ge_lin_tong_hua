@@ -28,7 +28,7 @@
 * [七只乌鸦](qi_zhi_wu_ya.md)
 * [小红帽](xiao_hong_mao.md)
 * [当音乐家去](dang_yin_le_jia_qu.md)
-* 会唱歌的白骨
+* [会唱歌的白骨](hui_chang_ge_de_bai_gu.md)
 * 魔鬼的三根金发
 * 虱子和跳蚤
 * 没有手的姑娘
