@@ -33,7 +33,7 @@
 * [虱子和跳蚤](shi_zi_he_tiao_zao.md)
 * [没有手的姑娘](mei_you_shou_de_gu_niang.md)
 * [称心如意的汉斯](cheng_xin_ru_yi_de_han_si.md)
-* 三种语言
+* [三种语言](san_zhong_yu_yan.md)
 * 聪明的爱尔莎
 * 走进天堂的裁缝
 * 桌子、金驴和棍子
