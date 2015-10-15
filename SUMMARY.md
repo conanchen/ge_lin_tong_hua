@@ -7,5 +7,5 @@
 * [狼和七只小山羊](lang_he_qi_zhi_xiao_shan_yang.md)
 * [忠实的约翰](zhong_shi_de_yue_han.md)
 * [好交易](hao_jiao_yi.md)
-* 令人叫绝的乐师
+* [令人叫绝的乐师](ling_ren_jiao_jue_de_le_shi.md)
 
