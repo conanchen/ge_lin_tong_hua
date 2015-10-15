@@ -23,4 +23,5 @@
 * [勇敢的小裁缝](yong_gan_de_xiao_cai_feng.md)
 * [灰姑娘](hui_gu_niang.md)
 * [谜语](mi_yu.md)
+* 老鼠、小鸟和香肠
 
