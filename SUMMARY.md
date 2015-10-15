@@ -29,7 +29,7 @@
 * [小红帽](xiao_hong_mao.md)
 * [当音乐家去](dang_yin_le_jia_qu.md)
 * [会唱歌的白骨](hui_chang_ge_de_bai_gu.md)
-* 魔鬼的三根金发
+* [魔鬼的三根金发](mo_gui_de_san_gen_jin_fa.md)
 * 虱子和跳蚤
 * 没有手的姑娘
 * 称心如意的汉斯
