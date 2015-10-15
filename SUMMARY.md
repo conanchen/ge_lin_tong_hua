@@ -39,7 +39,7 @@
 * [桌子、金驴和棍子](zhuo_zi_3001_jin_lv_he_gun_zi.md)
 * [大拇指汤姆](da_mu_zhi_tang_mu.md)
 * [狐狸太太的婚事](hu_li_tai_tai_de_hun_shi.md)
-* 十二个懒汉
+* [十二个懒汉](shi_er_ge_lan_han.md)
 * 强盗新郎
 * 海尔_柯贝斯
 * 教父
