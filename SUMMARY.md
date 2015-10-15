@@ -40,7 +40,7 @@
 * [大拇指汤姆](da_mu_zhi_tang_mu.md)
 * [狐狸太太的婚事](hu_li_tai_tai_de_hun_shi.md)
 * [十二个懒汉](shi_er_ge_lan_han.md)
-* 强盗新郎
+* [强盗新郎](qiang_dao_xin_lang.md)
 * 海尔_柯贝斯
 * 教父
 * 特鲁得太太
