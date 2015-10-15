@@ -37,7 +37,7 @@
 * [聪明的爱尔莎](cong_ming_de_ai_er_sha.md)
 * [走进天堂的裁缝](zou_jin_tian_tang_de_cai_feng.md)
 * [桌子、金驴和棍子](zhuo_zi_3001_jin_lv_he_gun_zi.md)
-* 大拇指汤姆
+* [大拇指汤姆](da_mu_zhi_tang_mu.md)
 * 狐狸太太的婚事
 * 十二个懒汉
 * 强盗新郎
