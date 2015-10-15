@@ -14,5 +14,5 @@
 * [小弟弟和小姐姐](xiao_di_di_he_xiao_jie_jie.md)
 * [莴苣姑娘](wo_ju_gu_niang.md)
 * [森林中的三个小矮人](sen_lin_zhong_de_san_ge_xiao_ai_ren.md)
-* 三个纺纱女
+* [三个纺纱女](san_ge_fang_sha_nv.md)
 
