@@ -32,7 +32,7 @@
 * [魔鬼的三根金发](mo_gui_de_san_gen_jin_fa.md)
 * [虱子和跳蚤](shi_zi_he_tiao_zao.md)
 * [没有手的姑娘](mei_you_shou_de_gu_niang.md)
-* 称心如意的汉斯
+* [称心如意的汉斯](cheng_xin_ru_yi_de_han_si.md)
 * 三种语言
 * 聪明的爱尔莎
 * 走进天堂的裁缝
