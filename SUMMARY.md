@@ -162,7 +162,7 @@
 * [怪鸟格莱弗](guai_niao_ge_lai_fu.md)
 * 壮士汉斯
 * [天堂里的农夫](tian_tang_li_de_nong_fu.md)
-* 瘦莉莎
+* [瘦莉莎](shou_li_sha.md)
 * [林中小屋](lin_zhong_xiao_wu.md)
 * [同甘共苦](tong_gan_gong_ku.md)
 * 篱笆国王
