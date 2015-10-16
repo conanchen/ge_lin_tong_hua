@@ -83,7 +83,7 @@
 * [拉斯廷老兄](la_si_ting_lao_xiong.md)
 * [赌鬼汉塞尔](du_gui_han_sai_er.md)
 * [傻瓜汉斯](sha_gua_han_si.md)
-* 汉斯成亲
+* [汉斯成亲](han_si_cheng_qin.md)
 * 金娃娃
 * 狐狸和鹅群
 * 穷人和富人
