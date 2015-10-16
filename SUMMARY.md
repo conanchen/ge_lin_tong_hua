@@ -69,7 +69,7 @@
 * 兔子新娘
 * 十二个猎人
 * 约丽丹和约雷德尔
-* 三个幸运儿
+* [三个幸运儿](san_ge_xing_yun_er.md)
 * [六个人走遍天下](liu_ge_ren_zou_bian_tian_xia.md)
 * [狼和人](lang_he_ren.md)
 * 狼和狐狸
