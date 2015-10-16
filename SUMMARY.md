@@ -59,7 +59,7 @@
 * [侏儒妖](zhu_ru_yao.md)
 * [金鸟](jin_niao.md)
 * [狗和麻雀](gou_he_ma_que.md)
-* 弗雷德里克和凯瑟琳
+* [弗雷德里克和凯瑟琳](fu_lei_de_li_ke_he_kai_se_lin.md)
 * [两兄弟](liang_xiong_di.md)
 * 小农夫
 * 蜂王
