@@ -44,7 +44,7 @@
 * [海尔_柯贝斯](hai_er_ke_bei_si.md)
 * [教父](jiao_fu.md)
 * [特鲁得太太](te_lu_de_tai_tai.md)
-* 死神教父
+* [死神教父](si_shen_jiao_fu.md)
 * 大拇哥游记
 * 费切尔的怪鸟
 * 桧树
