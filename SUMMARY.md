@@ -136,7 +136,7 @@
 * [六个仆人](liu_ge_pu_ren.md)
 * [白新娘和黑新娘](bai_xin_niang_he_hei_xin_niang.md)
 * [铁汉斯](tie_han_si.md)
-* 三位黑公主
+* [三位黑公主](san_wei_hei_gong_zhu.md)
 * 拉家常
 * 小羊羔与小鱼儿
 * 旅行去
