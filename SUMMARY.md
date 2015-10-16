@@ -88,7 +88,7 @@
 * [狐狸和鹅群](hu_li_he_e_qun.md)
 * [穷人和富人](qiong_ren_he_fu_ren.md)
 * [少女和狮子](shao_nv_he_shi_zi.md)
-* 牧鹅姑娘
+* [牧鹅姑娘](mu_e_gu_niang.md)
 * [年轻的巨人](nian_qing_de_ju_ren.md)
 * 土地神
 * [金山王](jin_shan_wang.md)
