@@ -138,7 +138,7 @@
 * [铁汉斯](tie_han_si.md)
 * [三位黑公主](san_wei_hei_gong_zhu.md)
 * [拉家常](la_jia_chang.md)
-* 小羊羔与小鱼儿
+* [小羊羔与小鱼儿](xiao_yang_gao_yu_xiao_yu_er.md)
 * 旅行去
 * 小毛驴
 * 不肖之子
