@@ -141,7 +141,7 @@
 * [小羊羔与小鱼儿](xiao_yang_gao_yu_xiao_yu_er.md)
 * [旅行去](lv_xing_qu.md)
 * [小毛驴](xiao_mao_lv.md)
-* 不肖之子
+* [不肖之子](bu_xiao_zhi_zi.md)
 * 萝卜
 * [返老还童](fan_lao_huan_tong.md)
 * [上帝的动物和魔鬼的动物](shang_di_de_dong_wu_he_mo_gui_de_dong_wu.md)
