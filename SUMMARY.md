@@ -185,7 +185,7 @@
 * 纺锤、梭子和针
 * [农夫与魔鬼](nong_fu_yu_mo_gui.md)
 * [小海兔的故事](xiao_hai_tu_de_gu_shi.md)
-* 智者神偷
+* [智者神偷](zhi_zhe_shen_tou.md)
 * 鼓手
 * 麦穗的故事
 * 坟
