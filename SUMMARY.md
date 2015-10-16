@@ -64,7 +64,7 @@
 * [小农夫](xiao_nong_fu.md)
 * [蜂王](feng_wang.md)
 * [三片羽毛](san_pian_yu_mao.md)
-* 金鹅
+* [金鹅](jin_e.md)
 * 千皮兽
 * 兔子新娘
 * 十二个猎人
