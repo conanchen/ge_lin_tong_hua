@@ -193,7 +193,7 @@
 * 水晶球
 * 少女玛琳
 * 牛皮靴
-* 金钥匙
+* [金钥匙](jin_yao_chi.md)
 * 森林中的圣约瑟
 * [十二门徒](shi_er_men_tu.md)
 * [贫穷和谦卑指引天堂之路](pin_qiong_he_qian_bei_zhi_yin_tian_tang_zhi_lu.md)
