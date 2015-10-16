@@ -169,7 +169,7 @@
 * [鲽鱼](die_yu.md)
 * 鸬鹚和戴胜
 * [猫头鹰](mao_tou_ying.md)
-* 月亮
+* [月亮](yue_liang.md)
 * 寿命
 * [死神的使者](si_shen_de_shi_zhe.md)
 * [鞋匠师傅](xie_jiang_shi_fu.md)
