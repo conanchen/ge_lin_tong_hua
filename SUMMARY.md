@@ -191,7 +191,7 @@
 * 坟
 * 老汉伦克朗
 * [水晶球](shui_jing_qiu.md)
-* 少女玛琳
+* [少女玛琳](shao_nv_ma_lin.md)
 * 牛皮靴
 * [金钥匙](jin_yao_chi.md)
 * 森林中的圣约瑟
