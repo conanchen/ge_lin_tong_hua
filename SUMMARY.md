@@ -144,7 +144,7 @@
 * 不肖之子
 * 萝卜
 * [返老还童](fan_lao_huan_tong.md)
-* 上帝的动物和魔鬼的动物
+* [上帝的动物和魔鬼的动物](shang_di_de_dong_wu_he_mo_gui_de_dong_wu.md)
 * 三个懒汉
 * 聪明的小牧童
 * 星星银元
