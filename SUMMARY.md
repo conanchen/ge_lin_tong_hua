@@ -167,7 +167,7 @@
 * [同甘共苦](tong_gan_gong_ku.md)
 * [篱笆国王](li_ba_guo_wang.md)
 * [鲽鱼](die_yu.md)
-* 鸬鹚和戴胜
+* [鸬鹚和戴胜](lu_zi_he_dai_sheng.md)
 * [猫头鹰](mao_tou_ying.md)
 * [月亮](yue_liang.md)
 * [寿命](shou_ming.md)
