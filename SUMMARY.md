@@ -45,7 +45,7 @@
 * [教父](jiao_fu.md)
 * [特鲁得太太](te_lu_de_tai_tai.md)
 * [死神教父](si_shen_jiao_fu.md)
-* 大拇哥游记
+* [大拇哥游记](da_mu_ge_you_ji.md)
 * 费切尔的怪鸟
 * 桧树
 * 老苏丹
