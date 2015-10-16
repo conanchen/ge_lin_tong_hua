@@ -177,7 +177,7 @@
 * [夏娃的孩子们](xia_wa_de_hai_zi_men.md)
 * 池中水妖
 * [小人儿的礼物](xiao_ren_er_de_li_wu.md)
-* 巨人和裁缝
+* [巨人和裁缝](ju_ren_he_cai_feng.md)
 * [钉子](ding_zi.md)
 * [坟中的穷少年](fen_zhong_de_qiong_shao_nian.md)
 * [真新娘](zhen_xin_niang.md)
