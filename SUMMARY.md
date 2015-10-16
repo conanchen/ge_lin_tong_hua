@@ -113,7 +113,7 @@
 * [技艺高超的猎人](ji_yi_gao_chao_de_xi_ren.md)
 * [来自天堂的连枷](lai_zi_tian_tang_de_lian_jia.md)
 * [两个国王的孩子](liang_ge_guo_wang_de_hai_zi.md)
-* 聪明的小裁缝
+* [聪明的小裁缝](cong_ming_de_xiao_cai_feng.md)
 * 清白的太阳揭露了真相
 * 蓝灯
 * [犟孩子](jiang_hai_zi.md)
