@@ -132,7 +132,7 @@
 * [一只眼、两只眼和三只眼](yi_zhi_yan_3001_liang_zhi_yan_he_san_zhi_yan.md)
 * [美丽的卡特琳莱叶和彼夫帕夫波儿特里尔](mei_li_de_qia_te_lin_lai_xie_he_bi_fu_pa_fu_bo_er_te_li_er.md)
 * [狐狸和马](hu_li_he_ma.md)
-* 十二个跳舞的公主
+* [十二个跳舞的公主](shi_er_ge_tiao_wu_de_gong_zhu.md)
 * 六个仆人
 * 白新娘和黑新娘
 * [铁汉斯](tie_han_si.md)
