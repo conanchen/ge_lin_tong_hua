@@ -126,7 +126,7 @@
 * [森林中的老妇人](sen_lin_zhong_de_lao_fu_ren.md)
 * [三兄弟](san_xiong_di.md)
 * [忠实的费迪南和不忠实的费迪南](zhong_shi_de_fei_di_nan_he_bu_zhong_shi_de_fei_di_nan.md)
-* 铁炉
+* [铁炉](tie_lu.md)
 * [懒纺妇](lan_fang_fu.md)
 * 四个聪明的兄弟
 * 一只眼、两只眼和三只眼
