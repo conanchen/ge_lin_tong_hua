@@ -56,7 +56,7 @@
 * [白雪公主](bai_xue_gong_zhu.md)
 * [背囊、帽子和号角](bei_nang_3001_mao_zi_he_hao_jiao.md)
 * [爱人罗兰](ai_ren_luo_lan.md)
-* 侏儒妖
+* [侏儒妖](zhu_ru_yao.md)
 * 金鸟
 * [狗和麻雀](gou_he_ma_que.md)
 * 弗雷德里克和凯瑟琳
