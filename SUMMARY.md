@@ -172,7 +172,7 @@
 * 月亮
 * 寿命
 * [死神的使者](si_shen_de_shi_zhe.md)
-* 鞋匠师傅
+* [鞋匠师傅](xie_jiang_shi_fu.md)
 * [井边的牧鹅女](jing_bian_de_mu_e_nv.md)
 * 夏娃的孩子们
 * 池中水妖
