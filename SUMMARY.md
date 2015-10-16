@@ -79,7 +79,7 @@
 * [聪明的格蕾特](cong_ming_de_ge_lei_te.md)
 * [祖父和孙子](zu_fu_he_sun_zi.md)
 * [女水妖](nv_shui_yao.md)
-* 小母鸡之死
+* [小母鸡之死](xiao_mu_ji_zhi_si.md)
 * 拉斯廷老兄
 * 赌鬼汉塞尔
 * 傻瓜汉斯
