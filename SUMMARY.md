@@ -176,7 +176,7 @@
 * [井边的牧鹅女](jing_bian_de_mu_e_nv.md)
 * [夏娃的孩子们](xia_wa_de_hai_zi_men.md)
 * 池中水妖
-* 小人儿的礼物
+* [小人儿的礼物](xiao_ren_er_de_li_wu.md)
 * 巨人和裁缝
 * 钉子
 * 坟中的穷少年
