@@ -146,7 +146,7 @@
 * [返老还童](fan_lao_huan_tong.md)
 * [上帝的动物和魔鬼的动物](shang_di_de_dong_wu_he_mo_gui_de_dong_wu.md)
 * [三个懒汉](san_ge_lan_han.md)
-* 聪明的小牧童
+* [聪明的小牧童](cong_ming_de_xiao_mu_tong.md)
 * 星星银元
 * [两枚硬币](liang_mei_ying_bi.md)
 * 挑媳妇
