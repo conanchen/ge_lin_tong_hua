@@ -49,7 +49,7 @@
 * [费切尔的怪鸟](fei_qie_er_de_guai_niao.md)
 * [桧树](kuai_shu.md)
 * [老苏丹](lao_su_dan.md)
-* 六只天鹅
+* [六只天鹅](liu_zhi_tian_e.md)
 * [玫瑰公主](mei_gui_gong_zhu.md)
 * 鸟弃儿
 * 画眉嘴国王
