@@ -128,7 +128,7 @@
 * [忠实的费迪南和不忠实的费迪南](zhong_shi_de_fei_di_nan_he_bu_zhong_shi_de_fei_di_nan.md)
 * [铁炉](tie_lu.md)
 * [懒纺妇](lan_fang_fu.md)
-* 四个聪明的兄弟
+* [四个聪明的兄弟](si_ge_cong_ming_de_xiong_di.md)
 * 一只眼、两只眼和三只眼
 * 美丽的卡特琳莱叶和彼夫帕夫波儿特里尔
 * [狐狸和马](hu_li_he_ma.md)
