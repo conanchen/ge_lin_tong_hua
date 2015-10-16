@@ -199,7 +199,7 @@
 * [贫穷和谦卑指引天堂之路](pin_qiong_he_qian_bei_zhi_yin_tian_tang_zhi_lu.md)
 * 上帝的食物
 * [三根绿枝](san_gen_lv_zhi.md)
-* 圣母的小酒杯
+* [圣母的小酒杯](sheng_mu_de_xiao_jiu_bei.md)
 * 老妈妈
 * 榛树枝
 
