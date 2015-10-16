@@ -178,7 +178,7 @@
 * 池中水妖
 * [小人儿的礼物](xiao_ren_er_de_li_wu.md)
 * 巨人和裁缝
-* 钉子
+* [钉子](ding_zi.md)
 * [坟中的穷少年](fen_zhong_de_qiong_shao_nian.md)
 * 真新娘
 * 野兔和刺猬
