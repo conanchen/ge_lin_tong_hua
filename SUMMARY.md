@@ -151,7 +151,7 @@
 * [两枚硬币](liang_mei_ying_bi.md)
 * 挑媳妇
 * 扔掉的亚麻
-* 极乐世界里的故事
+* [极乐世界里的故事](ji_le_shi_jie_li_de_gu_shi.md)
 * 两个神秘的小鞋匠
 * 迪特马斯的奇谈怪论
 * [谜语童话](mi_yu_tong_hua.md)
