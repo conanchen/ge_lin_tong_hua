@@ -189,7 +189,7 @@
 * [鼓手](gu_shou.md)
 * [麦穗的故事](mai_sui_de_gu_shi.md)
 * [坟](fen.md)
-* 老汉伦克朗
+* [老汉伦克朗](lao_han_lun_ke_lang.md)
 * [水晶球](shui_jing_qiu.md)
 * [少女玛琳](shao_nv_ma_lin.md)
 * [牛皮靴](niu_pi_xue.md)
