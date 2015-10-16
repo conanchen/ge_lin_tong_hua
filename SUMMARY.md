@@ -157,7 +157,7 @@
 * [谜语童话](mi_yu_tong_hua.md)
 * [白雪与红玫](bai_xue_yu_hong_mei.md)
 * [聪明的小伙计](cong_ming_de_xiao_huo_ji.md)
-* 水晶棺材
+* [水晶棺材](shui_jing_guan_cai.md)
 * 懒鬼哈利和胖婆特琳娜
 * [怪鸟格莱弗](guai_niao_ge_lai_fu.md)
 * 壮士汉斯
