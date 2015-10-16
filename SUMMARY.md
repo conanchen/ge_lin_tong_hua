@@ -175,7 +175,7 @@
 * [鞋匠师傅](xie_jiang_shi_fu.md)
 * [井边的牧鹅女](jing_bian_de_mu_e_nv.md)
 * [夏娃的孩子们](xia_wa_de_hai_zi_men.md)
-* 池中水妖
+* [池中水妖](chi_zhong_shui_yao.md)
 * [小人儿的礼物](xiao_ren_er_de_li_wu.md)
 * [巨人和裁缝](ju_ren_he_cai_feng.md)
 * [钉子](ding_zi.md)
