@@ -100,7 +100,7 @@
 * [万事通大夫](wan_shi_tong_da_fu.md)
 * [玻璃瓶中的妖怪](bo_li_ping_zhong_de_yao_guai.md)
 * [魔鬼的邋遢兄弟](mo_gui_de_la_ta_xiong_di.md)
-* 熊皮人
+* [熊皮人](xiong_pi_ren.md)
 * 山雀和熊
 * 甜粥
 * [聪明的老兄](cong_ming_de_lao_xiong.md)
