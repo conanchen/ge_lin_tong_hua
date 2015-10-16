@@ -186,7 +186,7 @@
 * [农夫与魔鬼](nong_fu_yu_mo_gui.md)
 * [小海兔的故事](xiao_hai_tu_de_gu_shi.md)
 * [智者神偷](zhi_zhe_shen_tou.md)
-* 鼓手
+* [鼓手](gu_shou.md)
 * 麦穗的故事
 * 坟
 * 老汉伦克朗
