@@ -62,7 +62,7 @@
 * [弗雷德里克和凯瑟琳](fu_lei_de_li_ke_he_kai_se_lin.md)
 * [两兄弟](liang_xiong_di.md)
 * [小农夫](xiao_nong_fu.md)
-* 蜂王
+* [蜂王](feng_wang.md)
 * 三片羽毛
 * 金鹅
 * 千皮兽
