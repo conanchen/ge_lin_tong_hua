@@ -97,7 +97,7 @@
 * [老希尔德布朗](lao_xi_er_de_bu_lang.md)
 * [三只小鸟](san_zhi_xiao_niao.md)
 * [生命之水](sheng_ming_zhi_shui.md)
-* 万事通大夫
+* [万事通大夫](wan_shi_tong_da_fu.md)
 * 玻璃瓶中的妖怪
 * 魔鬼的邋遢兄弟
 * 熊皮人
