@@ -115,7 +115,7 @@
 * [两个国王的孩子](liang_ge_guo_wang_de_hai_zi.md)
 * [聪明的小裁缝](cong_ming_de_xiao_cai_feng.md)
 * 清白的太阳揭露了真相
-* 蓝灯
+* [蓝灯](lan_deng.md)
 * [犟孩子](jiang_hai_zi.md)
 * [三个军医](san_ge_jun_yi.md)
 * [七个斯瓦比亚人](qi_ge_si_wa_bi_ya_ren.md)
