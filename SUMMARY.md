@@ -73,7 +73,7 @@
 * [六个人走遍天下](liu_ge_ren_zou_bian_tian_xia.md)
 * 狼和人
 * 狼和狐狸
-* 母狼高司普和狐狸
+* [母狼高司普和狐狸](mu_lang_gao_si_pu_he_hu_li.md)
 * 狐狸和猫
 * 石竹花
 * 聪明的格蕾特
