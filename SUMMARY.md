@@ -67,7 +67,7 @@
 * [金鹅](jin_e.md)
 * [千皮兽](qian_pi_shou.md)
 * [兔子新娘](tu_zi_xin_niang.md)
-* 十二个猎人
+* [十二个猎人](shi_er_ge_xi_ren.md)
 * 约丽丹和约雷德尔
 * [三个幸运儿](san_ge_xing_yun_er.md)
 * [六个人走遍天下](liu_ge_ren_zou_bian_tian_xia.md)
