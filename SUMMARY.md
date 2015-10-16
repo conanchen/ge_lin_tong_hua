@@ -142,7 +142,7 @@
 * [旅行去](lv_xing_qu.md)
 * [小毛驴](xiao_mao_lv.md)
 * [不肖之子](bu_xiao_zhi_zi.md)
-* 萝卜
+* [萝卜](luo_bu.md)
 * [返老还童](fan_lao_huan_tong.md)
 * [上帝的动物和魔鬼的动物](shang_di_de_dong_wu_he_mo_gui_de_dong_wu.md)
 * [三个懒汉](san_ge_lan_han.md)
