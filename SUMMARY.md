@@ -94,7 +94,7 @@
 * [金山王](jin_shan_wang.md)
 * [乌鸦](wu_ya.md)
 * [聪明的农家女](cong_ming_de_nong_jia_nv.md)
-* 老希尔德布朗
+* [老希尔德布朗](lao_xi_er_de_bu_lang.md)
 * 三只小鸟
 * 生命之水
 * 万事通大夫
