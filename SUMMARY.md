@@ -80,7 +80,7 @@
 * [祖父和孙子](zu_fu_he_sun_zi.md)
 * [女水妖](nv_shui_yao.md)
 * [小母鸡之死](xiao_mu_ji_zhi_si.md)
-* 拉斯廷老兄
+* [拉斯廷老兄](la_si_ting_lao_xiong.md)
 * 赌鬼汉塞尔
 * 傻瓜汉斯
 * 汉斯成亲
