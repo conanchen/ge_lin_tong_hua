@@ -105,7 +105,7 @@
 * [甜粥](tian_zhou.md)
 * [聪明的老兄](cong_ming_de_lao_xiong.md)
 * [蛤蟆的故事](ha_ma_de_gu_shi.md)
-* 穷磨房小工和猫
+* [穷磨房小工和猫](qiong_mo_fang_xiao_gong_he_mao.md)
 * 两个旅行家
 * 刺猬汉斯
 * 寿衣
