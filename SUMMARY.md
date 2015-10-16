@@ -74,7 +74,7 @@
 * [狼和人](lang_he_ren.md)
 * [狼和狐狸](lang_he_hu_li.md)
 * [母狼高司普和狐狸](mu_lang_gao_si_pu_he_hu_li.md)
-* 狐狸和猫
+* [狐狸和猫](hu_li_he_mao.md)
 * 石竹花
 * 聪明的格蕾特
 * [祖父和孙子](zu_fu_he_sun_zi.md)
