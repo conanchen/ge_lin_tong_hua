@@ -170,7 +170,7 @@
 * 鸬鹚和戴胜
 * [猫头鹰](mao_tou_ying.md)
 * [月亮](yue_liang.md)
-* 寿命
+* [寿命](shou_ming.md)
 * [死神的使者](si_shen_de_shi_zhe.md)
 * [鞋匠师傅](xie_jiang_shi_fu.md)
 * [井边的牧鹅女](jing_bian_de_mu_e_nv.md)
