@@ -147,7 +147,7 @@
 * [上帝的动物和魔鬼的动物](shang_di_de_dong_wu_he_mo_gui_de_dong_wu.md)
 * [三个懒汉](san_ge_lan_han.md)
 * [聪明的小牧童](cong_ming_de_xiao_mu_tong.md)
-* 星星银元
+* [星星银元](xing_xing_yin_yuan.md)
 * [两枚硬币](liang_mei_ying_bi.md)
 * [挑媳妇](tiao_xi_fu.md)
 * [扔掉的亚麻](reng_diao_de_ya_ma.md)
