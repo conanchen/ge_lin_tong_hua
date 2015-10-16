@@ -122,7 +122,7 @@
 * [三个小伙计](san_ge_xiao_huo_ji.md)
 * [魔鬼和他的祖母](mo_gui_he_ta_de_zu_mu.md)
 * 无所畏惧的王子
-* 魔草
+* [魔草](mo_cao.md)
 * 森林中的老妇人
 * [三兄弟](san_xiong_di.md)
 * 忠实的费迪南和不忠实的费迪南
