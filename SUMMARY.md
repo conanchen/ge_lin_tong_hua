@@ -102,7 +102,7 @@
 * [魔鬼的邋遢兄弟](mo_gui_de_la_ta_xiong_di.md)
 * [熊皮人](xiong_pi_ren.md)
 * [山雀和熊](shan_que_he_xiong.md)
-* 甜粥
+* [甜粥](tian_zhou.md)
 * [聪明的老兄](cong_ming_de_lao_xiong.md)
 * [蛤蟆的故事](ha_ma_de_gu_shi.md)
 * 穷磨房小工和猫
