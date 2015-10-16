@@ -76,7 +76,7 @@
 * [母狼高司普和狐狸](mu_lang_gao_si_pu_he_hu_li.md)
 * [狐狸和猫](hu_li_he_mao.md)
 * 石竹花
-* 聪明的格蕾特
+* [聪明的格蕾特](cong_ming_de_ge_lei_te.md)
 * [祖父和孙子](zu_fu_he_sun_zi.md)
 * 女水妖
 * 小母鸡之死
