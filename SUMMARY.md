@@ -71,7 +71,7 @@
 * 约丽丹和约雷德尔
 * 三个幸运儿
 * [六个人走遍天下](liu_ge_ren_zou_bian_tian_xia.md)
-* 狼和人
+* [狼和人](lang_he_ren.md)
 * 狼和狐狸
 * [母狼高司普和狐狸](mu_lang_gao_si_pu_he_hu_li.md)
 * 狐狸和猫
