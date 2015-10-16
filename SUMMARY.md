@@ -72,7 +72,7 @@
 * [三个幸运儿](san_ge_xing_yun_er.md)
 * [六个人走遍天下](liu_ge_ren_zou_bian_tian_xia.md)
 * [狼和人](lang_he_ren.md)
-* 狼和狐狸
+* [狼和狐狸](lang_he_hu_li.md)
 * [母狼高司普和狐狸](mu_lang_gao_si_pu_he_hu_li.md)
 * 狐狸和猫
 * 石竹花
