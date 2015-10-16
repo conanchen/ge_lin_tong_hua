@@ -85,7 +85,7 @@
 * [傻瓜汉斯](sha_gua_han_si.md)
 * [汉斯成亲](han_si_cheng_qin.md)
 * [金娃娃](jin_wa_wa.md)
-* 狐狸和鹅群
+* [狐狸和鹅群](hu_li_he_e_qun.md)
 * 穷人和富人
 * 少女和狮子
 * 牧鹅姑娘
