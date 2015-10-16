@@ -133,7 +133,7 @@
 * [美丽的卡特琳莱叶和彼夫帕夫波儿特里尔](mei_li_de_qia_te_lin_lai_xie_he_bi_fu_pa_fu_bo_er_te_li_er.md)
 * [狐狸和马](hu_li_he_ma.md)
 * [十二个跳舞的公主](shi_er_ge_tiao_wu_de_gong_zhu.md)
-* 六个仆人
+* [六个仆人](liu_ge_pu_ren.md)
 * 白新娘和黑新娘
 * [铁汉斯](tie_han_si.md)
 * 三位黑公主
