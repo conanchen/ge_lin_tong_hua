@@ -82,7 +82,7 @@
 * [小母鸡之死](xiao_mu_ji_zhi_si.md)
 * [拉斯廷老兄](la_si_ting_lao_xiong.md)
 * [赌鬼汉塞尔](du_gui_han_sai_er.md)
-* 傻瓜汉斯
+* [傻瓜汉斯](sha_gua_han_si.md)
 * 汉斯成亲
 * 金娃娃
 * 狐狸和鹅群
