@@ -181,7 +181,7 @@
 * [钉子](ding_zi.md)
 * [坟中的穷少年](fen_zhong_de_qiong_shao_nian.md)
 * [真新娘](zhen_xin_niang.md)
-* 野兔和刺猬
+* [野兔和刺猬](ye_tu_he_ci_wei.md)
 * 纺锤、梭子和针
 * [农夫与魔鬼](nong_fu_yu_mo_gui.md)
 * [小海兔的故事](xiao_hai_tu_de_gu_shi.md)
