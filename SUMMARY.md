@@ -192,7 +192,7 @@
 * 老汉伦克朗
 * [水晶球](shui_jing_qiu.md)
 * [少女玛琳](shao_nv_ma_lin.md)
-* 牛皮靴
+* [牛皮靴](niu_pi_xue.md)
 * [金钥匙](jin_yao_chi.md)
 * 森林中的圣约瑟
 * [十二门徒](shi_er_men_tu.md)
