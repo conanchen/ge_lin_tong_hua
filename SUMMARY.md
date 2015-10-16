@@ -140,7 +140,7 @@
 * [拉家常](la_jia_chang.md)
 * [小羊羔与小鱼儿](xiao_yang_gao_yu_xiao_yu_er.md)
 * [旅行去](lv_xing_qu.md)
-* 小毛驴
+* [小毛驴](xiao_mao_lv.md)
 * 不肖之子
 * 萝卜
 * [返老还童](fan_lao_huan_tong.md)
