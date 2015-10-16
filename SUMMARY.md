@@ -165,7 +165,7 @@
 * [瘦莉莎](shou_li_sha.md)
 * [林中小屋](lin_zhong_xiao_wu.md)
 * [同甘共苦](tong_gan_gong_ku.md)
-* 篱笆国王
+* [篱笆国王](li_ba_guo_wang.md)
 * [鲽鱼](die_yu.md)
 * 鸬鹚和戴胜
 * 猫头鹰
