@@ -152,7 +152,7 @@
 * 挑媳妇
 * 扔掉的亚麻
 * [极乐世界里的故事](ji_le_shi_jie_li_de_gu_shi.md)
-* 两个神秘的小鞋匠
+* [两个神秘的小鞋匠](liang_ge_shen_mi_de_xiao_xie_jiang.md)
 * 迪特马斯的奇谈怪论
 * [谜语童话](mi_yu_tong_hua.md)
 * [白雪与红玫](bai_xue_yu_hong_mei.md)
