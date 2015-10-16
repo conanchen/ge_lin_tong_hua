@@ -194,7 +194,7 @@
 * [少女玛琳](shao_nv_ma_lin.md)
 * [牛皮靴](niu_pi_xue.md)
 * [金钥匙](jin_yao_chi.md)
-* 森林中的圣约瑟
+* [森林中的圣约瑟](sen_lin_zhong_de_sheng_yue_se.md)
 * [十二门徒](shi_er_men_tu.md)
 * [贫穷和谦卑指引天堂之路](pin_qiong_he_qian_bei_zhi_yin_tian_tang_zhi_lu.md)
 * 上帝的食物
