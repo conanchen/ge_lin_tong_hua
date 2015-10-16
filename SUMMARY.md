@@ -63,7 +63,7 @@
 * [两兄弟](liang_xiong_di.md)
 * [小农夫](xiao_nong_fu.md)
 * [蜂王](feng_wang.md)
-* 三片羽毛
+* [三片羽毛](san_pian_yu_mao.md)
 * 金鹅
 * 千皮兽
 * 兔子新娘
