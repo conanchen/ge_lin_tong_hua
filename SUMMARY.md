@@ -114,7 +114,7 @@
 * [来自天堂的连枷](lai_zi_tian_tang_de_lian_jia.md)
 * [两个国王的孩子](liang_ge_guo_wang_de_hai_zi.md)
 * [聪明的小裁缝](cong_ming_de_xiao_cai_feng.md)
-* 清白的太阳揭露了真相
+* [清白的太阳揭露了真相](qing_bai_de_tai_yang_jie_lu_le_zhen_xiang.md)
 * [蓝灯](lan_deng.md)
 * [犟孩子](jiang_hai_zi.md)
 * [三个军医](san_ge_jun_yi.md)
