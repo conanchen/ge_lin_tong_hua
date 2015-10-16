@@ -160,7 +160,7 @@
 * [水晶棺材](shui_jing_guan_cai.md)
 * [懒鬼哈利和胖婆特琳娜](lan_gui_ha_li_he_pang_po_te_lin_nuo.md)
 * [怪鸟格莱弗](guai_niao_ge_lai_fu.md)
-* 壮士汉斯
+* [壮士汉斯](zhuang_shi_han_si.md)
 * [天堂里的农夫](tian_tang_li_de_nong_fu.md)
 * [瘦莉莎](shou_li_sha.md)
 * [林中小屋](lin_zhong_xiao_wu.md)
