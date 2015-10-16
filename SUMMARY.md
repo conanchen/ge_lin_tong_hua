@@ -107,7 +107,7 @@
 * [蛤蟆的故事](ha_ma_de_gu_shi.md)
 * [穷磨房小工和猫](qiong_mo_fang_xiao_gong_he_mao.md)
 * [两个旅行家](liang_ge_lv_xing_jia.md)
-* 刺猬汉斯
+* [刺猬汉斯](ci_wei_han_si.md)
 * [寿衣](shou_yi.md)
 * [丛林中的守财奴](cong_lin_zhong_de_shou_cai_nu.md)
 * [技艺高超的猎人](ji_yi_gao_chao_de_xi_ren.md)
