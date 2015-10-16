@@ -153,7 +153,7 @@
 * [扔掉的亚麻](reng_diao_de_ya_ma.md)
 * [极乐世界里的故事](ji_le_shi_jie_li_de_gu_shi.md)
 * [两个神秘的小鞋匠](liang_ge_shen_mi_de_xiao_xie_jiang.md)
-* 迪特马斯的奇谈怪论
+* [迪特马斯的奇谈怪论](di_te_ma_si_de_qi_tan_guai_lun.md)
 * [谜语童话](mi_yu_tong_hua.md)
 * [白雪与红玫](bai_xue_yu_hong_mei.md)
 * [聪明的小伙计](cong_ming_de_xiao_huo_ji.md)
