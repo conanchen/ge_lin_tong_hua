@@ -53,7 +53,7 @@
 * [玫瑰公主](mei_gui_gong_zhu.md)
 * [鸟弃儿](niao_qi_er.md)
 * [画眉嘴国王](hua_mei_zui_guo_wang.md)
-* 白雪公主
+* [白雪公主](bai_xue_gong_zhu.md)
 * [背囊、帽子和号角](bei_nang_3001_mao_zi_he_hao_jiao.md)
 * [爱人罗兰](ai_ren_luo_lan.md)
 * 侏儒妖
