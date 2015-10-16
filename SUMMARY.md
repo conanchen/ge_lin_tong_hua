@@ -188,7 +188,7 @@
 * [智者神偷](zhi_zhe_shen_tou.md)
 * [鼓手](gu_shou.md)
 * [麦穗的故事](mai_sui_de_gu_shi.md)
-* 坟
+* [坟](fen.md)
 * 老汉伦克朗
 * [水晶球](shui_jing_qiu.md)
 * [少女玛琳](shao_nv_ma_lin.md)
