@@ -87,7 +87,7 @@
 * [金娃娃](jin_wa_wa.md)
 * [狐狸和鹅群](hu_li_he_e_qun.md)
 * [穷人和富人](qiong_ren_he_fu_ren.md)
-* 少女和狮子
+* [少女和狮子](shao_nv_he_shi_zi.md)
 * 牧鹅姑娘
 * 年轻的巨人
 * 土地神
