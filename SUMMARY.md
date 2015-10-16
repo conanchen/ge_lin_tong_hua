@@ -121,7 +121,7 @@
 * [七个斯瓦比亚人](qi_ge_si_wa_bi_ya_ren.md)
 * [三个小伙计](san_ge_xiao_huo_ji.md)
 * [魔鬼和他的祖母](mo_gui_he_ta_de_zu_mu.md)
-* 无所畏惧的王子
+* [无所畏惧的王子](wu_suo_wei_ju_de_wang_zi.md)
 * [魔草](mo_cao.md)
 * [森林中的老妇人](sen_lin_zhong_de_lao_fu_ren.md)
 * [三兄弟](san_xiong_di.md)
