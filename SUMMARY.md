@@ -47,7 +47,7 @@
 * [死神教父](si_shen_jiao_fu.md)
 * [大拇哥游记](da_mu_ge_you_ji.md)
 * 费切尔的怪鸟
-* 桧树
+* [桧树](kuai_shu.md)
 * 老苏丹
 * 六只天鹅
 * [玫瑰公主](mei_gui_gong_zhu.md)
