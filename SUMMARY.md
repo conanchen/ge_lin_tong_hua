@@ -109,7 +109,7 @@
 * [两个旅行家](liang_ge_lv_xing_jia.md)
 * 刺猬汉斯
 * [寿衣](shou_yi.md)
-* 丛林中的守财奴
+* [丛林中的守财奴](cong_lin_zhong_de_shou_cai_nu.md)
 * 技艺高超的猎人
 * 来自天堂的连枷
 * 两个国王的孩子
