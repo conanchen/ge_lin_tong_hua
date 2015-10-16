@@ -163,7 +163,7 @@
 * 壮士汉斯
 * [天堂里的农夫](tian_tang_li_de_nong_fu.md)
 * 瘦莉莎
-* 林中小屋
+* [林中小屋](lin_zhong_xiao_wu.md)
 * 同甘共苦
 * 篱笆国王
 * 鲽鱼
