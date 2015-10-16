@@ -119,7 +119,7 @@
 * [犟孩子](jiang_hai_zi.md)
 * [三个军医](san_ge_jun_yi.md)
 * [七个斯瓦比亚人](qi_ge_si_wa_bi_ya_ren.md)
-* 三个小伙计
+* [三个小伙计](san_ge_xiao_huo_ji.md)
 * [魔鬼和他的祖母](mo_gui_he_ta_de_zu_mu.md)
 * 无所畏惧的王子
 * 魔草
