@@ -46,7 +46,7 @@
 * [特鲁得太太](te_lu_de_tai_tai.md)
 * [死神教父](si_shen_jiao_fu.md)
 * [大拇哥游记](da_mu_ge_you_ji.md)
-* 费切尔的怪鸟
+* [费切尔的怪鸟](fei_qie_er_de_guai_niao.md)
 * [桧树](kuai_shu.md)
 * 老苏丹
 * 六只天鹅
