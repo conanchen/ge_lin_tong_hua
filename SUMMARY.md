@@ -51,7 +51,7 @@
 * [老苏丹](lao_su_dan.md)
 * [六只天鹅](liu_zhi_tian_e.md)
 * [玫瑰公主](mei_gui_gong_zhu.md)
-* 鸟弃儿
+* [鸟弃儿](niao_qi_er.md)
 * 画眉嘴国王
 * 白雪公主
 * [背囊、帽子和号角](bei_nang_3001_mao_zi_he_hao_jiao.md)
