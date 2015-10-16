@@ -149,7 +149,7 @@
 * [聪明的小牧童](cong_ming_de_xiao_mu_tong.md)
 * 星星银元
 * [两枚硬币](liang_mei_ying_bi.md)
-* 挑媳妇
+* [挑媳妇](tiao_xi_fu.md)
 * 扔掉的亚麻
 * [极乐世界里的故事](ji_le_shi_jie_li_de_gu_shi.md)
 * [两个神秘的小鞋匠](liang_ge_shen_mi_de_xiao_xie_jiang.md)
