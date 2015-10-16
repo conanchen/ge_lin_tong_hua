@@ -110,7 +110,7 @@
 * 刺猬汉斯
 * [寿衣](shou_yi.md)
 * [丛林中的守财奴](cong_lin_zhong_de_shou_cai_nu.md)
-* 技艺高超的猎人
+* [技艺高超的猎人](ji_yi_gao_chao_de_xi_ren.md)
 * 来自天堂的连枷
 * 两个国王的孩子
 * 聪明的小裁缝
